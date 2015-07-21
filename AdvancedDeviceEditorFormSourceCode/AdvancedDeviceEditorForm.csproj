@@ -7,8 +7,8 @@
     <ProjectGuid>{FD788A1A-3123-428A-97CD-1D0804191539}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AdvancedDeviceEditorForm</RootNamespace>
-    <AssemblyName>AdvancedDeviceEditorForm</AssemblyName>
+    <RootNamespace>AdvancedDeviceEditor</RootNamespace>
+    <AssemblyName>AdvancedDeviceEditor</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

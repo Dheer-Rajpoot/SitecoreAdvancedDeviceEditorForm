@@ -29,7 +29,7 @@ using System.Web.UI;
 using System.Web.UI.HtmlControls;
 using System.Xml.Linq;
 
-namespace AdvancedDeviceEditorForm
+namespace AdvancedDeviceEditor
 {
     /// <summary>
     /// Represents the Device Editor form.
